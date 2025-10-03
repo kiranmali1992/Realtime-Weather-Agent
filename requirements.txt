@@ -1,0 +1,11 @@
+langchain_community
+wikipedia
+youtube_search
+langgraph
+langchain_groq
+langchain
+langchain_huggingface
+sentence-transformers
+transformers
+chromadb
+ddgs
